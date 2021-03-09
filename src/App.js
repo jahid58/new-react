@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react';
-import fakeData from '../src/components/fakedata/fakedata.json'
+import React from 'react';
+
 import {
   BrowserRouter as Router,
   Switch,

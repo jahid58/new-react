@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, useHistory } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
 import './product.css'
 const Product = (props) => {
 let cnEvent = props.cnEvent

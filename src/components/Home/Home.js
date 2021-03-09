@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './home.css'
 import Product from '../Product/Product';
-import Review from '../Review/Review';
+
 const Home = () => {
   let [countries,setCountries]= useState([]) 
   console.log(countries)
