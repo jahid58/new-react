@@ -1,5 +1,5 @@
 import React, {  useEffect, useState } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 
 
 
@@ -19,10 +19,10 @@ const Review = () => {
 
     return (
         <div>
-            <h2></h2>
+            <h2>fuck</h2>
             <h1>product:{country.area }</h1>
             <h4>item:{country.population}</h4>
-            <Link to='/OrderReview'><button>fuck you</button></Link>
+            <button>fuck you</button>
         </div>
     );
 };

@@ -2,7 +2,7 @@ import React from 'react';
 import { useHistory } from 'react-router-dom';
 import './product.css'
 const Product = (props) => {
-let cnEvent = props.cnEvent
+
 let cn =props.cn
  let {name,population} = cn
  let history = useHistory()
