@@ -1,0 +1,21 @@
+.home{
+height: 100vh;
+width: 100vw;
+display: flex;
+flex-wrap: wrap;
+}
+.home_first_child{
+margin: 10px;
+width: 55vw;
+border: 1px solid gray;
+padding: 20px
+;
+}
+.home_second_child{
+    width: 30vw;
+    margin: 10px;
+    position: fixed;
+    right: 30px;
+    border: 1px solid gray;
+    padding: 20px
+    }

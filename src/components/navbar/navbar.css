@@ -1,0 +1,12 @@
+.nav_bar{
+    height: 60px;
+    width: 100vw;
+    background-color: rgb(165, 179, 142);
+    font-size: 1.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-weight: 700;
+    text-emphasis-color: white;
+}
+
